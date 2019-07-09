@@ -1,0 +1,310 @@
+[
+  {
+    "title": "Ombudsman Services",
+    "sublinks": [
+      {
+        "title": "OFS Malaysia",
+        "url": "https://www.ofs.org.my/en/",
+        "sub": "",
+        "logo": "/img/logos/legal/om/1.svg"
+      },
+      {
+        "title": "Ombudsman Services Malaysia",
+        "url": "https://www.ombudsman-services.org/",
+        "sub": "",
+        "logo": "/img/logos/legal/om/2.png"
+      },
+      {
+        "title": "Consumer Ombudsman Services",
+        "url": "http://www.consumer-ombudsman.org/",
+        "sub": "",
+        "logo": "/img/logos/legal/om/3.png"
+      },
+      {
+        "title": "Pensions Ombudsman Services",
+        "url": "https://www.pensions-ombudsman.org.uk/",
+        "sub": "",
+        "logo": "/img/logos/legal/om/4.gif"
+      },
+      {
+        "title": "ACCC Ombudsman Services",
+        "url": "https://www.accc.gov.au/contact-us/other-helpful-agencies/industry-ombudsmen-dispute-resolution",
+        "sub": "",
+        "logo": "/img/logos/legal/om/5.svg"
+      },
+      {
+        "title": "CCS Ombudsman",
+        "url": "https://www.ccsombudsman.org/about/services-approach/",
+        "sub": "",
+        "logo": "/img/logos/legal/om/6.svg"
+      },
+      {
+        "title": "How to use an Ombudsman",
+        "url": "https://www.citizensadvice.org.uk/consumer/get-more-help/how-to-use-an-ombudsman-in-england/",
+        "sub": "",
+        "logo": "/img/logos/legal/om/7.png"
+      },
+      {
+        "title": "UN Ombudsman Services",
+        "url": "https://www.un.org/en/ombudsman/help.shtml",
+        "sub": "",
+        "logo": "/img/logos/legal/om/8.png"
+      },
+      {
+        "title": "AU Ombudsman Services",
+        "url": "http://www.ombudsman.gov.au/",
+        "sub": "",
+        "logo": "/img/logos/legal/om/9.png"
+      },
+      {
+        "title": "CANR Ombudsperson Services",
+        "url": "https://www.canr.msu.edu/od/ombudsperson-services/",
+        "sub": "",
+        "logo": "/img/logos/legal/om/10.jpg"
+      },
+      {
+        "title": "CH.ch Ombudsman Services",
+        "url": "https://www.ch.ch/en/ombudsman-service/",
+        "sub": "",
+        "logo": "/img/logos/legal/om/11.png"
+      },
+      {
+        "title": "Penn Ombudsman Services",
+        "url": "http://www.upenn.edu/ombuds/services.html",
+        "sub": "",
+        "logo": "/img/logos/legal/om/12.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Legal Help",
+    "sublinks": [
+      {
+        "title": "Elder Law",
+        "url": "https://www.agingcare.com/topics/46/elder-law",
+        "sub": "",
+        "logo": "/img/logos/legal/help/1.jpg"
+      },
+      {
+        "title": "Estate Planning",
+        "url": "https://www.agingcare.com/topics/75/estate-planning",
+        "sub": "",
+        "logo": "/img/logos/legal/help/2.png"
+      },
+      {
+        "title": "The Malaysian Bar",
+        "url": "http://www.malaysianbar.org.my/legal_aid_centres.html",
+        "sub": "",
+        "logo": "/img/logos/legal/help/3.jpg"
+      },
+      {
+        "title": "The Selangor Bar",
+        "url": "https://www.selangorbar.org/page_dtl.php?id=680",
+        "sub": "",
+        "logo": "/img/logos/legal/help/4.png"
+      },
+      {
+        "title": "Catholic Lawyers Malaysia",
+        "url": "http://www.catholiclawyersmalaysia.org/content/free-legal-clinics",
+        "sub": "",
+        "logo": "/img/logos/legal/help/5.jpg"
+      },
+      {
+        "title": "Legal Aid Information",
+        "url": "http://www.refugeelegalaidinformation.org/malaysia-pro-bono-directory",
+        "sub": "",
+        "logo": "/img/logos/legal/help/6.png"
+      },
+      {
+        "title": "NSW Law",
+        "url": "https://www.nswlam.com/practice-areas/probono",
+        "sub": "",
+        "logo": "/img/logos/legal/help/7.jpg"
+      },
+      {
+        "title": "Azmi Law",
+        "url": "http://www.azmilaw.com/",
+        "sub": "",
+        "logo": "/img/logos/legal/help/8.png"
+      },
+      {
+        "title": "Fareez Law",
+        "url": "https://fareezlaw.com/",
+        "sub": "",
+        "logo": "/img/logos/legal/help/9.png"
+      },
+      {
+        "title": "GLT Law",
+        "url": "https://gltlaw.my/",
+        "sub": "",
+        "logo": "/img/logos/legal/help/10.png"
+      },
+      {
+        "title": "DHRRA Malaysia",
+        "url": "http://dhrramalaysia.org.my/legal-advice/",
+        "sub": "",
+        "logo": "/img/logos/legal/help/11.png"
+      },
+      {
+        "title": "Jason Ng Partners",
+        "url": "http://jasonngpartners.com/area-of-services/",
+        "sub": "",
+        "logo": "/img/logos/legal/help/12.png"
+      }
+    ]
+  },
+  {
+    "title": "Wills and Testament",
+    "sublinks": [
+      {
+        "title": "Wills",
+        "url": "https://www.agingcare.com/topics/223/will",
+        "sub": "",
+        "logo": "/img/logos/legal/will/1.png"
+      },
+      {
+        "title": "Mahwengkwai",
+        "url": "https://mahwengkwai.com/wills-in-malaysia/",
+        "sub": "",
+        "logo": "/img/logos/legal/will/2.png"
+      },
+      {
+        "title": "A simple guide to DIY will writing",
+        "url": "https://www.freemalaysiatoday.com/category/leisure/2018/10/15/a-simple-guide-to-diy-will-writing/",
+        "sub": "",
+        "logo": "/img/logos/legal/will/3.jpg"
+      },
+      {
+        "title": "CHIA LEE Associates",
+        "url": "http://www.chialee.com.my/knowledge-hub/wills-in-malaysia",
+        "sub": "",
+        "logo": "/img/logos/legal/will/4.png"
+      },
+      {
+        "title": "Compare Hero Will",
+        "url": "https://www.comparehero.my/retirement/articles/will-writing-malaysia",
+        "sub": "",
+        "logo": "/img/logos/legal/will/5.png"
+      },
+      {
+        "title": "Writing your own will",
+        "url": "http://www.focusmalaysia.my/Income/writing-your-own-will",
+        "sub": "",
+        "logo": "/img/logos/legal/will/6.png"
+      },
+      {
+        "title": "9 things you need to know about wills in KL",
+        "url": "http://dollarsandsense.my/9-things-you-need-to-know-about-wills-in-malaysia/",
+        "sub": "",
+        "logo": "/img/logos/legal/will/7.png"
+      },
+      {
+        "title": "Introduction to wills in Malaysia",
+        "url": "https://dnh.com.my/introduction-to-wills-in-malaysia/",
+        "sub": "",
+        "logo": "/img/logos/legal/will/8.png"
+      },
+      {
+        "title": "Simple Wills",
+        "url": "https://law.freeadvice.com/estate_planning/wills/simple_wills.htm",
+        "sub": "",
+        "logo": "/img/logos/legal/will/9.png"
+      },
+      {
+        "title": "Will Writing",
+        "url": "http://iwill.com.my/willwriting/en/",
+        "sub": "",
+        "logo": "/img/logos/legal/will/10.jpg"
+      },
+      {
+        "title": "Last Will and Testament Template",
+        "url": "https://www.pandadoc.com/last-will-testament-template/",
+        "sub": "",
+        "logo": "/img/logos/legal/will/11.png"
+      },
+      {
+        "title": "Will writing for beginners",
+        "url": "https://kclau.com/estate-planning/will-writing-beginners/",
+        "sub": "",
+        "logo": "/img/logos/legal/will/12.jpg"
+      }
+    ]
+  },
+  {
+    "title": "General Information",
+    "sublinks": [
+      {
+        "title": "How to get legal aid in Malaysia",
+        "url": "https://asklegal.my/p/how-to-get-legal-aid-in-malaysia",
+        "sub": "",
+        "logo": "/img/logos/legal/info/1.jpg"
+      },
+      {
+        "title": "Online Legal Advice",
+        "url": "https://www.freemalaysiatoday.com/category/nation/2016/03/01/online-legal-advice-for-free/",
+        "sub": "",
+        "logo": "/img/logos/legal/info/2.jpg"
+      },
+      {
+        "title": "Free Legal Aid in Malaysia",
+        "url": "http://www.laweddie.com/wordpress/free-legal-aid-in-malaysia/",
+        "sub": "",
+        "logo": "/img/logos/legal/info/3.png"
+      },
+      {
+        "title": "Easier Legal Solutions",
+        "url": "https://www.theedgemarkets.com/article/solutions-making-it-easier-find-legal-services-online",
+        "sub": "",
+        "logo": "/img/logos/legal/info/4.png"
+      },
+      {
+        "title": "Legal Aid in Malysia presentation",
+        "url": "https://prezi.com/2c8cbybfh8pn/legal-aid-in-malaysia/",
+        "sub": "",
+        "logo": "/img/logos/legal/info/5.jpg"
+      },
+      {
+        "title": "Redressing the Ombudsman balance",
+        "url": "https://www.thestar.com.my/news/nation/2018/10/20/turning-to-ombudsman-to-redress-disputes/",
+        "sub": "",
+        "logo": "/img/logos/legal/info/6.png"
+      },
+      {
+        "title": "CCS Ombudsman History Link",
+        "url": "https://www.ccsombudsman.org/about/purpose-history/",
+        "sub": "",
+        "logo": "/img/logos/legal/info/7.png"
+      },
+      {
+        "title": "Common Law Library",
+        "url": "http://www.commonlii.org/resources/235.html",
+        "sub": "",
+        "logo": "/img/logos/legal/info/8.jpg"
+      },
+      {
+        "title": "Ministry of Legal Affairs",
+        "url": "https://www.loc.gov/law/help/guide/nations/malaysia.php",
+        "sub": "",
+        "logo": "/img/logos/legal/info/9.png"
+      },
+      {
+        "title": "Asean Law International",
+        "url": "https://www.aseanlip.com/malaysia",
+        "sub": "",
+        "logo": "/img/logos/legal/info/10.jpg"
+      },
+      {
+        "title": "The Malaysian Bar Resources",
+        "url": "http://www.malaysianbar.org.my/links/legal_resources/",
+        "sub": "",
+        "logo": "/img/logos/legal/info/11.png"
+      },
+      {
+        "title": "Law Library",
+        "url": "https://libguides.library.usyd.edu.au/c.php?g=508236&p=3476568",
+        "sub": "",
+        "logo": "/img/logos/legal/info/12.jpg"
+      }
+    ]
+  }
+]

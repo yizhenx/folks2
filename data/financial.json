@@ -1,0 +1,310 @@
+[
+  {
+    "title": "Banking",
+    "sublinks": [
+      {
+        "title": "Maybank",
+        "url": "https://www.maybank.com/en/index.page",
+        "sub": "",
+        "logo": "/img/logos/finance/bank/1.jpg"
+      },
+      {
+        "title": "CIMB",
+        "url": "https://www.cimb.com/en/index.html",
+        "sub": "",
+        "logo": "/img/logos/finance/bank/2.png"
+      },
+      {
+        "title": "Public Bank",
+        "url": "https://www.pbebank.com/",
+        "sub": "",
+        "logo": "/img/logos/finance/bank/3.gif"
+      },
+      {
+        "title": "RHB Group",
+        "url": "https://www.rhbgroup.com/",
+        "sub": "",
+        "logo": "/img/logos/finance/bank/4.jpg"
+      },
+      {
+        "title": "HongLeong Bank",
+        "url": "https://www.hlb.com.my/en/personal-banking/home.html",
+        "sub": "",
+        "logo": "/img/logos/finance/bank/5.svg"
+      },
+      {
+        "title": "AmBank Group",
+        "url": "https://www.ambankgroup.com/eng/Pages/home.aspx",
+        "sub": "",
+        "logo": "/img/logos/finance/bank/6.png"
+      },
+      {
+        "title": "Bank Rakyat",
+        "url": "http://www.bankrakyat.com.my/",
+        "sub": "",
+        "logo": "/img/logos/finance/bank/7.png"
+      },
+      {
+        "title": "HSBC",
+        "url": "https://www.hsbc.com.my/",
+        "sub": "",
+        "logo": "/img/logos/finance/bank/8.jpg"
+      },
+      {
+        "title": "AffinBank",
+        "url": "https://www.affinbank.com.my/",
+        "sub": "",
+        "logo": "/img/logos/finance/bank/9.gif"
+      },
+      {
+        "title": "Bank Islam",
+        "url": "http://www.bankislam.com.my/home/",
+        "sub": "",
+        "logo": "/img/logos/finance/bank/10.gif"
+      },
+      {
+        "title": "BSN",
+        "url": "https://www.mybsn.com.my/",
+        "sub": "",
+        "logo": "/img/logos/finance/bank/11.png"
+      },
+      {
+        "title": "Alliance Bank",
+        "url": "https://www.alliancebank.com.my/",
+        "sub": "",
+        "logo": "/img/logos/finance/bank/12.png"
+      }
+    ]
+  },
+  {
+    "title": "Money Management",
+    "sublinks": [
+      {
+        "title": "Aging Care Financial Planning",
+        "url": "https://www.agingcare.com/topics/72/financial-planning",
+        "sub": "",
+        "logo": "/img/logos/finance/money/1.png"
+      },
+      {
+        "title": "Prudential",
+        "url": "https://www.prudential.com.my/en/our-products/products/prusenior-med",
+        "sub": "",
+        "logo": "/img/logos/finance/money/2.gif"
+      },
+      {
+        "title": "Big Pay MasterCard",
+        "url": "https://www.bigpayme.com/",
+        "sub": "",
+        "logo": "/img/logos/finance/money/3.webp"
+      },
+      {
+        "title": "Bites Loyalty Card",
+        "url": "https://play.google.com/store/apps/details?id=com.foodpurveyor.bites&hl=en",
+        "sub": "Can be used at Bens",
+        "logo": "/img/logos/finance/money/4.png"
+      },
+      {
+        "title": "My Tabung",
+        "url": "https://play.google.com/store/apps/details?id=com.bnm.mytabung",
+        "sub": "",
+        "logo": "/img/logos/finance/money/5.png"
+      },
+      {
+        "title": "Fast Budget",
+        "url": "https://play.google.com/store/apps/details?id=com.blodhgard.easybudget",
+        "sub": "",
+        "logo": "/img/logos/finance/money/6.png"
+      },
+      {
+        "title": "Expense Manager",
+        "url": "https://play.google.com/store/apps/details?id=mediavision.handwallet",
+        "sub": "",
+        "logo": "/img/logos/finance/money/7.png"
+      },
+      {
+        "title": "MoneyLover",
+        "url": "https://play.google.com/store/apps/details?id=com.bookmark.money",
+        "sub": "",
+        "logo": "/img/logos/finance/money/8.png"
+      },
+      {
+        "title": "Mint",
+        "url": "https://www.mint.com/",
+        "sub": "",
+        "logo": "/img/logos/finance/money/9.jpg"
+      },
+      {
+        "title": "Acorns",
+        "url": "https://www.acorns.com/",
+        "sub": "",
+        "logo": "/img/logos/finance/money/10.png"
+      },
+      {
+        "title": "YNAB",
+        "url": "https://www.youneedabudget.com/",
+        "sub": "",
+        "logo": "/img/logos/finance/money/11.png"
+      },
+      {
+        "title": "Personal Finance Simplified",
+        "url": "https://pocketguard.com/",
+        "sub": "",
+        "logo": "/img/logos/finance/money/12.png"
+      }
+    ]
+  },
+  {
+    "title": "Investments",
+    "sublinks": [
+      {
+        "title": "LoanStreet",
+        "url": "https://loanstreet.com.my/learning-centre/top-5-apps-to-track-your-finances",
+        "sub": "this is not the same as youBook",
+        "logo": "/img/logos/finance/invest/1.jpg"
+      },
+      {
+        "title": "RobinHood",
+        "url": "https://robinhood.com/",
+        "sub": "How to twit",
+        "logo": "/img/logos/finance/invest/2.png"
+      },
+      {
+        "title": "STASH",
+        "url": "https://www.stashinvest.com/",
+        "sub": "",
+        "logo": "/img/logos/finance/invest/3.png"
+      },
+      {
+        "title": "StockPile",
+        "url": "https://itunes.apple.com/us/app/stockpile-stock-trading/id1021737158?mt=8",
+        "sub": "",
+        "logo": "/img/logos/finance/invest/4.png"
+      },
+      {
+        "title": "Clink",
+        "url": "https://clink.com/?dd_pm=none&dd_pm_cat=brokerage",
+        "sub": "",
+        "logo": "/img/logos/finance/invest/5.png"
+      },
+      {
+        "title": "AmeriTrade",
+        "url": "https://www.tdameritrade.com/client/mobileapp/",
+        "sub": "",
+        "logo": "/img/logos/finance/invest/6.jpg"
+      },
+      {
+        "title": "Wise Banyan",
+        "url": "https://www.wisebanyan.com/",
+        "sub": "",
+        "logo": "/img/logos/finance/invest/7.svg"
+      },
+      {
+        "title": "The M1 Finance Account",
+        "url": "https://www.m1finance.com/",
+        "sub": "",
+        "logo": "/img/logos/finance/invest/8.png"
+      },
+      {
+        "title": "Fundrise",
+        "url": "https://fundrise.com/",
+        "sub": "",
+        "logo": "/img/logos/finance/invest/9.png"
+      },
+      {
+        "title": "Swell",
+        "url": "https://info.swellinvesting.com/",
+        "sub": "",
+        "logo": "/img/logos/finance/invest/10.png"
+      },
+      {
+        "title": "Investing.com",
+        "url": "https://play.google.com/store/apps/details?id=com.fusionmedia.investing",
+        "sub": "",
+        "logo": "/img/logos/finance/invest/11.svg"
+      },
+      {
+        "title": "JStock",
+        "url": "https://play.google.com/store/apps/details?id=org.yccheok.jstock.gui",
+        "sub": "",
+        "logo": "/img/logos/finance/invest/12.png"
+      }
+    ]
+  },
+  {
+    "title": "General Information",
+    "sublinks": [
+      {
+        "title": "Budgets Tax",
+        "url": "https://www.comparehero.my/budgets-tax/articles/government-aids-didnt-know",
+        "sub": "",
+        "logo": "/img/logos/finance/info/1.jpg"
+      },
+      {
+        "title": "SImple money tips to manage your finances",
+        "url": "https://blog.bbazaar.my/simple-money-tips-to-manage-your-finances-better/",
+        "sub": "",
+        "logo": "/img/logos/finance/info/2.png"
+      },
+      {
+        "title": "Managing your money",
+        "url": "https://www.bankinginfo.com.my/Managing%20your%20money.html",
+        "sub": "",
+        "logo": "/img/logos/finance/info/3.gif"
+      },
+      {
+        "title": "KCLAU",
+        "url": "https://kclau.com/",
+        "sub": "",
+        "logo": "/img/logos/finance/info/4.jpg"
+      },
+      {
+        "title": "5 Steps to managing your salary",
+        "url": "https://ringgitplus.com/en/blog/Budgeting-Saving/5-Steps-to-Managing-Your-Salary-Smartly.html",
+        "sub": "",
+        "logo": "/img/logos/finance/info/5.svg"
+      },
+      {
+        "title": "How to manage your household finances",
+        "url": "https://www.freemalaysiatoday.com/category/leisure/2019/01/14/how-to-effectively-manage-your-household-finances/",
+        "sub": "",
+        "logo": "/img/logos/finance/info/6.png"
+      },
+      {
+        "title": "Set your monthly budget with Mr Stingy",
+        "url": "https://www.mr-stingy.com/set-monthly-budget/",
+        "sub": "",
+        "logo": "/img/logos/finance/info/7.png"
+      },
+      {
+        "title": "Bank Negara Malysia",
+        "url": "http://www.bnm.gov.my/index.php?ch=li&cat=banking&type=CB&fund=0&cu=0",
+        "sub": "",
+        "logo": "/img/logos/finance/info/8.jpg"
+      },
+      {
+        "title": "History of Malaysian Banking Industry",
+        "url": "https://www.abm.org.my/banking-in-malaysia-menu/history-of-the-banking-industry-in-malaysia",
+        "sub": "",
+        "logo": "/img/logos/finance/info/9.gif"
+      },
+      {
+        "title": "Malaysian Banking Information",
+        "url": "https://www.bankinginfo.com.my/",
+        "sub": "",
+        "logo": "/img/logos/finance/info/10.gif"
+      },
+      {
+        "title": "10 Tablet apps that manage your money",
+        "url": "https://www.doughroller.net/budgeting/10-tablet-apps-that-manage-your-money/",
+        "sub": "",
+        "logo": "/img/logos/finance/info/11.png"
+      },
+      {
+        "title": "Top 10 Budgeting Apps",
+        "url": "https://www.thebalance.com/best-budgeting-apps-4159414",
+        "sub": "",
+        "logo": "/img/logos/finance/info/12.png"
+      }
+    ]
+  }
+]
